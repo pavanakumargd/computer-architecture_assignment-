@@ -63,21 +63,12 @@ Rotation 2:  10110101   Carry = 0
 Final Result: "10110101"
 Final Carry: 0
 
-How to Run the Programs
+## Tphnologies Used
 
-1. Install Python 3 on your computer.
 
-2. Download or clone this repository.
+- Python 3
 
-3. Open a terminal in the project folder.
-
-4. Run the first program:
-   
-   "python question1_twos_complement.py"
-
-5. Run the second program:
-   
-   "python question2_rotate_operations.py"
+- 8-bit 2's Complement Arithmetic, Binary Arithmetic, Rotate Right (ROR), Rotate Right through Carry (RCR), Overflow Detection, Carry Flag
 
 Conclusion
 
