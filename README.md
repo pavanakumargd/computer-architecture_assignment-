@@ -63,7 +63,7 @@ Rotation 2:  10110101   Carry = 0
 Final Result: "10110101"
 Final Carry: 0
 
-## Tphnologies Used
+## Technologies Used
 
 
 - Python 3
